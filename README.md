@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Sert</h1>
-<h3 align="center">Information Systems Engineering Student | Full‑Stack & Mobile Developer</h3>
+<h3 align="center">Information Systems Engineering Student | Aspiring Full‑Stack Developer & Mobile Developer</h3>
 
 📍 Istanbul, Türkiye  
 🎓 I'm a 2nd year Information Systems Engineering student at Piri Reis University (%100 Scholarship).  

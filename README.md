@@ -14,9 +14,13 @@
 
 ## 🏅 Certifications
 
+- 🎓 **React JS: Applied React JS - Redux Training** – *Udemy, August 2025*  
+  Learned React fundamentals including components, state management, hooks, routing, Redux, and UI libraries like Material UI and Bootstrap.
+  *Skills:* Python · Software Development
+  
 - 🎓 **Introduction to Programming with Java Tutorial** – *Udemy, July 2025*  
   Learned Java fundamentals including OOP, arrays, control structures, and methods.  
-  *Skills:* Java · Mobile Development · Software Development  
+  Skills: React.js · JavaScript · Redux · React Router · Hooks · Material UI · Bootstrap · Front-End Development · Web Application Development 
 
 - 🎓 **Modern Web Development with Next.js** – *Udemy, April 2025*  
   Gained experience in React-based Next.js, SSR, routing, SEO-friendly app development.  
@@ -32,9 +36,9 @@
 
 ## 🛠️ Technologies & Skills
 
-Frontend: HTML · CSS · JavaScript · React · Next.js · Java · XML  
+Frontend: HTML · CSS · JavaScript · React · Next.js · XML  
 Backend: Django · Rust · Node.js   
-Mobile: Java · Kotlin · Android SDK  
+Mobile: Java · Kotlin   
 Other: Git · Firebase Auth/Firestore · Docker 
 
 ## 🎯 Goals

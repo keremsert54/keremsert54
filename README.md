@@ -3,6 +3,7 @@
 
 📍 Istanbul, Türkiye
 🎓 I'm a 22-year-old, 3rd year Information Systems Engineering student at Piri Reis University (2023-Present), (%100 Scholarship).
+
 💻 Passionate about software development, always improving through real-world projects and learning.
 
 🚀 Projects

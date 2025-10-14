@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Sert</h1>
-<h3 align="center">Information Systems Engineering Student | Aspiring Full‑Stack Developer & Mobile Developer</h3>
+<h3 align="center">Information Systems Engineering Student | Aspiring Full‑Stack Developer - Web & Mobile Developer</h3>
 
 📍 Istanbul, Türkiye
 🎓 I'm a 22-year-old, 3rd year Information Systems Engineering student at Piri Reis University (2023-Present), (%100 Scholarship).

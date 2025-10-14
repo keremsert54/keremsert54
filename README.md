@@ -19,16 +19,20 @@ Enables student collaboration with groups, chat, file sharing, and resource pool
 
 🎓 React JS: Applied React JS - Redux Training – Udemy, August 2025
 Learned React fundamentals including components, state management, hooks, routing, Redux, and UI libraries like Material UI and Bootstrap.
-Skills: Python · Software Development
+Skills: React.js · JavaScript · Redux · React Router · Hooks · Material UI · Bootstrap · Front-End Development · Web Application Development
+
 🎓 Introduction to Programming with Java Tutorial – Udemy, July 2025
 Learned Java fundamentals including OOP, arrays, control structures, and methods.
-Skills: React.js · JavaScript · Redux · React Router · Hooks · Material UI · Bootstrap · Front-End Development · Web Application Development
+Skills: Java · Backend Development
+
 🎓 Modern Web Development with Next.js – Udemy, April 2025
 Gained experience in React-based Next.js, SSR, routing, SEO-friendly app development.
 Skills: JavaScript · React · Next.js · Web Development
+
 🎓 Django - Docker - Nginx - AWS S3 – Udemy, February 2025
 Learned full-stack web dev with Django, containerization with Docker, and deployment techniques.
 Skills: Python · Django · Docker · HTML · CSS · JavaScript · Web Development
+
 🎓 Python Programming Language – BTK Akademi, September 2024
 Covered programming basics, control structures, functions, and data types in Python.
 Skills: Python · Software Development

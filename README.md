@@ -1,56 +1,71 @@
 <h1 align="center">Hi 👋, I'm Kerem Sert</h1>
-<h3 align="center">Information Systems Engineering Student | Aspiring Full‑Stack Developer - Web & Mobile Developer</h3>
+<h3 align="center">Information Systems Engineering Student | Aspiring Full-Stack Developer</h3>
 
 📍 Istanbul, Türkiye
-🎓 I'm a 22-year-old, 3rd year Information Systems Engineering student at Piri Reis University (2023-Present), (%100 Scholarship).
 
-💻 Passionate about software development, always improving through real-world projects and learning.
+🎓 I am a 3rd year student in the **Department of Information Systems Engineering** at **Piri Reis University** (%100 scholarship).  
 
-🚀 Projects
+💻 Passionate about web and mobile software development, I have built a strong foundation in **Java, React.js, Node.js, Python, Django, Kotlin**, and modern full-stack technologies. I am particularly interested in **Artificial Intelligence** and its applications in real-world solutions.
 
-🌐 EduConnect – Social education platform using React JS, Node.js, and PostgreSQL.
-Enables student collaboration with groups, chat, file sharing, and resource pool. Features Socket.io for real-time communication and JWT for secure authentication.
-📱 Course Portal – Android app using Kotlin and Firebase, developed as a term project.
-🌐 Personal Portfolio Website – Full-stack app built with Django, Docker, HTML, and CSS.
-🧳 Trip Mate – Travel planning app using React, JavaScript, and Rust for full-stack experience.
-💧 FitTrack – Java-based multilingual Android app for tracking water, exercise, and nutrition.
+I prioritize creating **user-centric, innovative, and scalable** applications. I continuously improve my skills by working on hands-on projects, completing specialized courses, and earning industry-relevant certifications. I am curious, self-disciplined, and always open to learning and growth.
 
-🏅 Certifications
+My goal is to build a successful career as a Full-Stack Developer by developing impactful and user-focused software solutions.
 
-🎓 React JS: Applied React JS - Redux Training – Udemy, August 2025
-Learned React fundamentals including components, state management, hooks, routing, Redux, and UI libraries like Material UI and Bootstrap.
-Skills: React.js · JavaScript · Redux · React Router · Hooks · Material UI · Bootstrap · Front-End Development · Web Application Development
+### 🚀 Featured Projects
 
-🎓 Introduction to Programming with Java Tutorial – Udemy, July 2025
-Learned Java fundamentals including OOP, arrays, control structures, and methods.
-Skills: Java · Backend Development
+**🌐 EduConnect**  
+Social education platform enabling student collaboration through group management, real-time chat, file sharing, and resource pooling.  
+**Teknolojiler:** React.js, Node.js, PostgreSQL, Socket.IO, JWT  
+🔗 [Visit Website](https://educonnect.net.tr/)
 
-🎓 Modern Web Development with Next.js – Udemy, April 2025
-Gained experience in React-based Next.js, SSR, routing, SEO-friendly app development.
-Skills: JavaScript · React · Next.js · Web Development
+**📱 Course Portal**  
+Android education application developed as a term project for the Mobile Programming course. Features secure authentication, dynamic course listing, and enrollment system.  
+**Teknolojiler:** Kotlin, Firebase Authentication, Firestore
 
-🎓 Django - Docker - Nginx - AWS S3 – Udemy, February 2025
-Learned full-stack web dev with Django, containerization with Docker, and deployment techniques.
-Skills: Python · Django · Docker · HTML · CSS · JavaScript · Web Development
+**🌐 Personal Portfolio Website**  
+Dynamic portfolio site developed as a term project for the Advanced Web Programming course.  
+**Teknolojiler:** Python, Django, Docker
 
-🎓 Python Programming Language – BTK Akademi, September 2024
-Covered programming basics, control structures, functions, and data types in Python.
-Skills: Python · Software Development
+**🌐 keremsert.com.tr**  
+Professionally developed personal website showcasing my projects and experience with a clean, modern design.  
+**Teknolojiler:** Next.js, TypeScript  
+🔗 [Visit Website](https://keremsert.com.tr)
 
-🛠️ Technologies & Skills
-Frontend: HTML · CSS · JavaScript · React · Next.js · XML
-Backend: Django · Rust · Node.js · PostgreSQL
-Mobile: Java · Kotlin
-Other: Git · Firebase Auth/Firestore · Docker · Socket.io · JWT
+**🧳 Trip Mate**  
+Web application for creating, sharing, and discovering travel itineraries.  
+**Teknolojiler:** React, JavaScript
 
-🎯 Goals
-My goal is to become a skilled full-stack developer who builds modern, scalable, and user-centric apps. I’m committed to continuous learning and embracing new technologies to solve real-world problems.
+**💧 FitTrack**  
+Multilingual Android app for tracking daily water intake, exercise, and nutrition.  
+**Teknolojiler:** Java, Firebase
+
+### 🏅 Certificates
+
+- **Introduction to Cybersecurity** – Cisco Networking Academy
+- **JavaScript Essentials 1 & 2** – Cisco Networking Academy
+- **React JS: Applied React JS - Redux Training** – Udemy (August 2025)
+- **Modern Web Development with Next.js** – Udemy (April 2025)
+- **Django - Docker - Nginx - AWS S3** – Udemy (February 2025)
+- **Introduction to Programming with Java** – Udemy (July 2025)
+- **Python Programming Language** – BTK Akademi (September 2024)
+
+### 🛠️ Technologies & Skills
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Material UI, Bootstrap  
+**Backend:** Django, Node.js, Python, Rust  
+**Mobile:** Kotlin, Java  
+**Database & Tools:** PostgreSQL, Firebase (Auth & Firestore), Docker, Socket.IO, JWT, Git
+
+### 🎯 Goals
+To develop innovative, scalable, and user-centric software solutions as a professional Full-Stack Developer while continuously expanding my knowledge in emerging technologies, especially Artificial Intelligence.
 
 ## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/keremsert/)  
-- 💻 [GitHub](https://github.com/keremsert54)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/keremsert/)
+- 🌐 [Personal Website](https://keremsert.com.tr)
+- 💻 [GitHub](https://github.com/keremsert54)
 
 ---
+
+📌 *Curious. Disciplined. Always building.*
 
 📌 *This README introduces who I am, what I've built, and where I'm headed as a developer.*

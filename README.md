@@ -13,31 +13,31 @@ My goal is to build a successful career as a Full-Stack Developer by developing 
 
 ### 🚀 Featured Projects
 
-**🌐 EduConnect**  
-Social education platform enabling student collaboration through group management, real-time chat, file sharing, and resource pooling.  
-**Teknolojiler:** React.js, Node.js, PostgreSQL, Socket.IO, JWT  
-🔗 [Visit Website](https://educonnect.net.tr/)
-
-**📱 Course Portal**  
-Android education application developed as a term project for the Mobile Programming course. Features secure authentication, dynamic course listing, and enrollment system.  
-**Teknolojiler:** Kotlin, Firebase Authentication, Firestore
-
-**🌐 Personal Portfolio Website**  
-Dynamic portfolio site developed as a term project for the Advanced Web Programming course.  
-**Teknolojiler:** Python, Django, Docker
-
 **🌐 keremsert.com.tr**  
 Professionally developed personal website showcasing my projects and experience with a clean, modern design.  
 **Teknolojiler:** Next.js, TypeScript  
 🔗 [Visit Website](https://keremsert.com.tr)
 
-**🧳 Trip Mate**  
-Web application for creating, sharing, and discovering travel itineraries.  
-**Teknolojiler:** React, JavaScript
+**🌐 EduConnect**  
+Social education platform enabling student collaboration through group management, real-time chat, file sharing, and resource pooling.  
+**Technologies:** React.js, Node.js, PostgreSQL, Socket.IO, JWT  
+🔗 [Visit Website](https://educonnect.net.tr/)
 
 **💧 FitTrack**  
 Multilingual Android app for tracking daily water intake, exercise, and nutrition.  
-**Teknolojiler:** Java, Firebase
+**Technologies:** Java, Firebase
+
+**📱 Course Portal**  
+Android education application developed as a term project for the Mobile Programming course. Features secure authentication, dynamic course listing, and enrollment system.  
+**Technologies:** Kotlin, Firebase Authentication, Firestore
+
+**🧳 Trip Mate**  
+Web application for creating, sharing, and discovering travel itineraries.  
+**Technologies:** React, JavaScript
+
+**🌐 Personal Portfolio Website**  
+Dynamic portfolio site developed as a term project for the Advanced Web Programming course.  
+**Technologies:** Python, Django, Docker
 
 ### 🏅 Certificates
 

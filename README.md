@@ -18,6 +18,10 @@ Professionally developed personal website showcasing my projects and experience 
 **Teknolojiler:** Next.js, TypeScript  
 🔗 [Visit Website](https://keremsert.com.tr)
 
+**🧪 E-Commerce Cart Test Automation
+Automated backend test automation project focused on ensuring reliability and stability of an e-commerce cart system. Developed as a Software Quality Assurance course term project.
+**Technologies:** Python, FastAPI, SQLAlchemy, Pytest
+
 **🌐 EduConnect**  
 Social education platform enabling student collaboration through group management, real-time chat, file sharing, and resource pooling.  
 **Technologies:** React.js, Node.js, PostgreSQL, Socket.IO, JWT  
@@ -40,9 +44,9 @@ Dynamic portfolio site developed as a term project for the Advanced Web Programm
 **Technologies:** Python, Django, Docker
 
 ### 🏅 Certificates
-
-- **Introduction to Cybersecurity** – Cisco Networking Academy
-- **JavaScript Essentials 1 & 2** – Cisco Networking Academy
+- **React Native | Hands-On React Native Training** -- Udemy (April 2026)
+- **Introduction to Cybersecurity** – Cisco Networking Academy (March 2026)
+- **JavaScript Essentials 1 & 2** – Cisco Networking Academy (January 2026)
 - **React JS: Applied React JS - Redux Training** – Udemy (August 2025)
 - **Modern Web Development with Next.js** – Udemy (April 2025)
 - **Django - Docker - Nginx - AWS S3** – Udemy (February 2025)

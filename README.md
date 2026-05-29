@@ -15,7 +15,7 @@ My goal is to build a successful career as a Full-Stack Developer by developing 
 
 **🌐 keremsert.com.tr**  
 Professionally developed personal website showcasing my projects and experience with a clean, modern design.  
-**Teknolojiler:** Next.js, TypeScript  
+**Technologies:** Next.js, TypeScript  
 🔗 [Visit Website](https://keremsert.com.tr)
 
 **🧪 E-Commerce Cart Test Automation

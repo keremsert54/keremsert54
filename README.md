@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm Kerem Sert</h1>
-<h3 align="center">Information Systems Engineering Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">23-year-old Information Systems Engineering Student | Aspiring Full-Stack Developer</h3>
 
-📍 Istanbul, Türkiye
+<p align="center">
+  📍 Istanbul, Türkiye
+</p>
 
-🎓 I am a 3rd year student in the **Department of Information Systems Engineering** at **Piri Reis University** (%100 scholarship).  
+---
 
-💻 Passionate about web and mobile software development, I have built a strong foundation in **Java, React.js, Node.js, Python, Django, Kotlin**, and modern full-stack technologies. I am particularly interested in **Artificial Intelligence** and its applications in real-world solutions.
+🎓 I'm a 23-year-old 3rd-year **Information Systems Engineering** student at **Piri Reis University** (100% Scholarship).
 
-I prioritize creating **user-centric, innovative, and scalable** applications. I continuously improve my skills by working on hands-on projects, completing specialized courses, and earning industry-relevant certifications. I am curious, self-disciplined, and always open to learning and growth.
+💻 I'm a passionate developer with a strong focus on web and mobile application development. I have built a solid foundation in **Java, React.js, Next.js, Node.js, Python, Django, Kotlin**, and modern full-stack technologies. I am particularly interested in **Artificial Intelligence** and its real-world applications.
 
-My goal is to build a successful career as a Full-Stack Developer by developing impactful and user-focused software solutions.
+I strive to create **user-centric, scalable, and high-quality** applications. I continuously improve my skills through hands-on projects, specialized courses, and industry-recognized certifications. I am curious, self-disciplined, and always eager to learn and grow.
+
+My goal is to build a successful career as a **Full-Stack Developer**, creating impactful and innovative software solutions.
 
 ### 🚀 Featured Projects
 
 **🌐 keremsert.com.tr**  
-Professionally developed personal website showcasing my projects and experience with a clean, modern design.  
+Professionally developed personal website showcasing my projects, skills, and experience with a clean and modern design.  
 **Technologies:** Next.js, TypeScript  
 🔗 [Visit Website](https://keremsert.com.tr)
 
-**🧪 E-Commerce Cart Test Automation
-
-Automated backend test automation project focused on ensuring reliability and stability of an e-commerce cart system. Developed as a Software Quality Assurance course term project.
-
+**🧪 E-Commerce Cart Test Automation**  
+Automated backend testing project focused on ensuring the reliability and stability of an e-commerce cart system (Software Quality Assurance course term project).  
 **Technologies:** Python, FastAPI, SQLAlchemy, Pytest
 
 **🌐 EduConnect**  
-Social education platform enabling student collaboration through group management, real-time chat, file sharing, and resource pooling.  
+A social education platform that enables student collaboration through group management, real-time chat, file sharing, and resource pooling.  
 **Technologies:** React.js, Node.js, PostgreSQL, Socket.IO, JWT  
 🔗 [Visit Website](https://educonnect.net.tr/)
 
 **💧 FitTrack**  
-Multilingual Android app for tracking daily water intake, exercise, and nutrition.  
+Multilingual Android application for tracking daily water intake, exercise, and nutrition.  
 **Technologies:** Java, Firebase
 
 **📱 Course Portal**  
@@ -42,11 +44,12 @@ Web application for creating, sharing, and discovering travel itineraries.
 **Technologies:** React, JavaScript
 
 **🌐 Personal Portfolio Website**  
-Dynamic portfolio site developed as a term project for the Advanced Web Programming course.  
+Dynamic portfolio website developed as a term project for the Advanced Web Programming course.  
 **Technologies:** Python, Django, Docker
 
 ### 🏅 Certificates
-- **React Native | Hands-On React Native Training** -- Udemy (April 2026)
+
+- **React Native | Hands-On React Native Training** – Udemy (April 2026)
 - **Introduction to Cybersecurity** – Cisco Networking Academy (March 2026)
 - **JavaScript Essentials 1 & 2** – Cisco Networking Academy (January 2026)
 - **React JS: Applied React JS - Redux Training** – Udemy (August 2025)
@@ -58,14 +61,18 @@ Dynamic portfolio site developed as a term project for the Advanced Web Programm
 ### 🛠️ Technologies & Skills
 
 **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Material UI, Bootstrap  
-**Backend:** Django, Node.js, Python, Rust  
+**Backend:** Django, Node.js, Python, FastAPI  
 **Mobile:** Kotlin, Java  
-**Database & Tools:** PostgreSQL, Firebase (Auth & Firestore), Docker, Socket.IO, JWT, Git
+**Database & Tools:** PostgreSQL, Firebase (Auth & Firestore), Docker, Socket.IO, JWT, Git, SQLAlchemy, Pytest
 
 ### 🎯 Goals
-To develop innovative, scalable, and user-centric software solutions as a professional Full-Stack Developer while continuously expanding my knowledge in emerging technologies, especially Artificial Intelligence.
+
+To become a professional Full-Stack Developer who builds innovative, scalable, and user-focused software solutions while continuously expanding my expertise in emerging technologies, especially Artificial Intelligence.
+
+---
 
 ## 📫 Connect with Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/keremsert/)
 - 🌐 [Personal Website](https://keremsert.com.tr)
 - 💻 [GitHub](https://github.com/keremsert54)
@@ -73,5 +80,3 @@ To develop innovative, scalable, and user-centric software solutions as a profes
 ---
 
 📌 *Curious. Disciplined. Always building.*
-
-📌 *This README introduces who I am, what I've built, and where I'm headed as a developer.*

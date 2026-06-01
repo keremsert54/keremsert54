@@ -19,7 +19,6 @@ Professionally developed personal website showcasing my projects and experience 
 🔗 [Visit Website](https://keremsert.com.tr)
 
 **🧪 E-Commerce Cart Test Automation
-
 Automated backend test automation project focused on ensuring reliability and stability of an e-commerce cart system. Developed as a Software Quality Assurance course term project.
 
 **Technologies:** Python, FastAPI, SQLAlchemy, Pytest

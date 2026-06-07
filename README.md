@@ -14,7 +14,7 @@
 ---
 
 ### 🎓 About Me
-
+* **Age:** 23
 * **Education:** 3rd-year **Information Systems Engineering** student at **Piri Reis University** (100% Scholarship, 2023 - 2027).
 * **Focus:** Passionate about building secure, scalable digital experiences and exploring the integration of **Artificial Intelligence** into software technologies.
 * **Approach:** I bridge the gap between theoretical knowledge and practical execution by actively reinforcing my professional certifications through hands-on project development.

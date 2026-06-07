@@ -26,7 +26,7 @@ Professionally developed personal website showcasing my projects, skills, and ex
 Automated backend testing project focused on ensuring the reliability and stability of an e-commerce cart system (Software Quality Assurance course term project).  
 **Technologies:** Python, FastAPI, SQLAlchemy, Pytest
 
-**🌐 EduConnect**  
+**🎓 EduConnect**  
 A social education platform that enables student collaboration through group management, real-time chat, file sharing, and resource pooling.  
 **Technologies:** React.js, Node.js, PostgreSQL, Socket.IO, JWT  
 🔗 [Visit Website](https://educonnect.net.tr/)
@@ -35,15 +35,15 @@ A social education platform that enables student collaboration through group man
 Multilingual Android application for tracking daily water intake, exercise, and nutrition.  
 **Technologies:** Java, Firebase
 
-**📱 Course Portal**  
+**📚 Course Portal**  
 Android education application developed as a term project for the Mobile Programming course. Features secure authentication, dynamic course listing, and enrollment system.  
 **Technologies:** Kotlin, Firebase Authentication, Firestore
 
-**🧳 Trip Mate**  
+**✈️ Trip Mate**  
 Web application for creating, sharing, and discovering travel itineraries.  
 **Technologies:** React, JavaScript
 
-**🌐 Personal Portfolio Website**  
+**💼 Personal Portfolio Website**  
 Dynamic portfolio website developed as a term project for the Advanced Web Programming course.  
 **Technologies:** Python, Django, Docker
 

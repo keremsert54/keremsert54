@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerem Sert</h1>
-<h3 align="center">23-year-old Information Systems Engineering Student</h3>
+<h3 align="center">Information Systems Engineering Student</h3>
 
 <p align="center">
   📍 Istanbul, Türkiye

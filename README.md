@@ -22,7 +22,7 @@ Professionally developed personal website showcasing my projects, skills, and ex
 **Technologies:** Next.js, TypeScript  
 🔗 [Visit Website](https://keremsert.com.tr)
 
-**🧪 E-Commerce Cart Test Automation**  
+**🛒 E-Commerce Cart Test Automation**  
 Automated backend testing project focused on ensuring the reliability and stability of an e-commerce cart system (Software Quality Assurance course term project).  
 **Technologies:** Python, FastAPI, SQLAlchemy, Pytest
 

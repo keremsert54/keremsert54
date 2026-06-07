@@ -15,7 +15,7 @@
 
 ### 🎓 About Me
 
-* [cite_start]**Education:** 3rd-year **Information Systems Engineering** student at **Piri Reis University** (100% Scholarship, 2023 - 2027)[cite: 11, 12, 13, 14].
+* [cite_start]**Education:** 3rd-year **Information Systems Engineering** student at **Piri Reis University** (100% Scholarship, 2023 - 2027)[cite: 6, 12, 13, 14].
 * **Focus:** Passionate about building secure, scalable digital experiences and exploring the integration of **Artificial Intelligence** into software technologies.
 * [cite_start]**Approach:** I bridge the gap between theoretical knowledge and practical execution by actively reinforcing my professional certifications through hands-on project development[cite: 7].
 
@@ -27,7 +27,7 @@
 | :--- | :--- |
 | **Programming Languages** | [cite_start]Java, JavaScript, TypeScript, Python, Kotlin, HTML & CSS [cite: 17] |
 | **Frameworks & Libraries** | [cite_start]React.js, Next.js 15, Node.js, React Native, Django, FastAPI, Pytest, Tailwind CSS, Framer Motion [cite: 18] |
-| **Databases & DevOps** | [cite_start]PostgreSQL, Firebase (Authentication & Firestore), SQLAlchemy, Docker [cite: 19, 20] |
+| **Databases & DevOps** | [cite_start]PostgreSQL, Firebase (Authentication & Firestore), SQLAlchemy, Docker [cite: 18, 19] |
 | **Core Competencies** | [cite_start]Full-Stack Development, Mobile/Web App Development, Test Automation, Real-time Communication (Socket.IO), JWT Authentication, Git [cite: 20] |
 
 ---
@@ -36,7 +36,7 @@
 
 #### 🛒 [E-Commerce Cart Test Automation](https://github.com/keremsert54)
 * [cite_start]**Description:** Engineered a robust, automated backend testing framework for an E-Commerce Cart System, incorporating complex business logic validation and boundary value analysis (BVA)[cite: 25, 26].
-* [cite_start]**Impact:** Successfully achieved **91% code coverage** using Pytest[cite: 8, 27].
+* [cite_start]**Impact:** Successfully achieved **91% code coverage** using Pytest[cite: 27].
 * [cite_start]**Stack:** Python, FastAPI, SQLAlchemy, Pytest [cite: 23]
 
 #### 🌐 [Kerem Sert - Portfolio](https://keremsert.com.tr)
@@ -60,7 +60,7 @@
 * [cite_start]**Stack:** React.js, JavaScript, CSS [cite: 44]
 
 #### 💼 Personal Portfolio Website (Legacy)
-* [cite_start]**Description:** Architected as a **university term project for the Advanced Web Programming course**, featuring clean backend routing architectures and dynamic project showcases[cite: 55, 56].
+* [cite_start]**Description:** Architected as a **university term project for the Advanced Web Programming course**, featuring clean backend routing architectures and dynamic project showcases[cite: 55].
 * [cite_start]**Stack:** Python, Django, Docker, HTML, CSS [cite: 53]
 
 ---

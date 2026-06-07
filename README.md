@@ -34,7 +34,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🛒 [E-Commerce Cart Test Automation](https://github.com/keremsert54)
+#### 🛒 [E-Commerce Cart Test Automation](https://github.com/keremsert54/eticaret-pytest)
 * **Description:** Engineered a robust, automated backend testing framework for an E-Commerce Cart System, incorporating complex business logic validation and boundary value analysis (BVA).
 * **Impact:** Successfully achieved **91% code coverage** using Pytest.
 * **Stack:** Python, FastAPI, SQLAlchemy, Pytest

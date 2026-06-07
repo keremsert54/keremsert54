@@ -59,7 +59,7 @@
 * **Description:** Co-developed a responsive web application engineered to simplify and organize modular multi-day itinerary planning for travelers.
 * **Stack:** React.js, JavaScript, CSS
 
-#### 💼 [Personal Portfolio Website] (Legacy)(https://github.com/keremsert54/keremsert-website)
+#### 💼 [Personal Portfolio Website](https://github.com/keremsert54/keremsert-website)
 * **Description:** Architected as a **university term project for the Advanced Web Programming course**, featuring clean backend routing architectures and dynamic project showcases.
 * **Stack:** Python, Django, Docker, HTML, CSS
 

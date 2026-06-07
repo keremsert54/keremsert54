@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kerem Sert</h1>
-<h3 align="center">Information Systems Engineering Student | Full-Stack & Mobile Developer</h3>
+<h1 align="center">Kerem Sert</h1>
+<h3 align="center">Information Systems Engineering Student</h3>
 
 <p align="center">
   <a href="https://keremsert.com.tr"><img src="https://img.shields.io/badge/Website-keremsert.com.tr-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
@@ -47,19 +47,19 @@
 * **Description:** A comprehensive collaboration platform facilitating study group creation, resource pooling, and real-time messaging. Fully deployed with secure JWT authentication.
 * **Stack:** React.js, Node.js, PostgreSQL, Socket.IO, JWT
 
-#### 📚 Course Portal: Educational Android Application
+#### 📚 [Course Portal: Educational Android Application](https://github.com/keremsert54/keremsert-courseportal)
 * **Description:** Developed as a **university term project for the Mobile Programming course** at Piri Reis University. Features secure authentication, native runtime permission management, and dynamic course enrollment.
 * **Stack:** Kotlin, Firebase (Auth & Firestore), Android Studio
 
-#### 💧 FitTrack: Health & Fitness Android App
+#### 💧 [FitTrack: Health & Fitness Android App](https://github.com/keremsert54/FitTrack)
 * **Description:** An open-source Android application centered on daily water tracking, exercise logging, and active calorie monitoring with real-time visual progress bars.
 * **Stack:** Java, Firebase, Android Studio, XML
 
-#### ✈️ Trip Mate: Smart Travel Planner
+#### ✈️ [Trip Mate: Smart Travel Planner](https://github.com/keremsert54/keremsert-tripmate)
 * **Description:** Co-developed a responsive web application engineered to simplify and organize modular multi-day itinerary planning for travelers.
 * **Stack:** React.js, JavaScript, CSS
 
-#### 💼 Personal Portfolio Website (Legacy)
+#### 💼 [Personal Portfolio Website] (Legacy)(https://github.com/keremsert54/keremsert-website)
 * **Description:** Architected as a **university term project for the Advanced Web Programming course**, featuring clean backend routing architectures and dynamic project showcases.
 * **Stack:** Python, Django, Docker, HTML, CSS
 

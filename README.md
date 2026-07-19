@@ -1,11 +1,7 @@
 <h1 align="center">Kerem Sert</h1>
 <h3 align="center">Information Systems Engineering Student</h3>
 
-<p align="center">
-  <a href="https://keremsert.com.tr"><img src="https://img.shields.io/badge/Website-keremsert.com.tr-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://linkedin.com/in/keremsert"><img src="https://img.shields.io/badge/LinkedIn-Kerem%20Sert-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:keremsert54@gmail.com"><img src="https://img.shields.io/badge/Email-keremsert54%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<p align="center"> <a href="https://keremsert.com.tr"> <img src="https://img.shields.io/badge/Website-keremsert.com.tr-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"> </a> <a href="https://linkedin.com/in/keremsert"> <img src="https://img.shields.io/badge/LinkedIn-Kerem%20Sert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:keremsert54@gmail.com"> <img src="https://img.shields.io/badge/Email-keremsert54%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 
 <p align="center">
   📍 Istanbul, Turkey

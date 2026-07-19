@@ -24,11 +24,11 @@
 
 ## About Me
 
-I am a **3rd-year Information Systems Engineering student at Piri Reis University** with a strong interest in **software development, full-stack applications, software testing, and emerging technologies**.
+I am a **3rd-year Information Systems Engineering student at Piri Reis University**, studying in a **100% English-taught program on a full scholarship**.
 
-I enjoy transforming ideas into functional and scalable software products. Through academic and personal projects, I have gained hands-on experience in **web and mobile application development, backend systems, database management, and automated testing**.
+I have a strong interest in **software development, full-stack applications, software testing, and emerging technologies**. Through academic and personal projects, I have gained hands-on experience in **web and mobile application development, backend systems, database management, and automated testing**.
 
-Currently, I am focused on improving my software engineering skills and gaining professional experience through **internship opportunities**.
+I enjoy transforming ideas into functional and scalable software products. Currently, I am focused on continuously improving my software engineering skills and gaining professional experience through **internship opportunities**.
 
 ---
 

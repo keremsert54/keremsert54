@@ -1,16 +1,20 @@
 <h1 align="center">Kerem Sert</h1>
 
-<h3 align="center">Information Systems Engineering Student | Full-Stack Developer</h3>
+<h3 align="center">
+  Information Systems Engineering Student | Full-Stack Developer
+</h3>
 
 <p align="center">
   <a href="https://keremsert.com.tr">
-    <img src="https://img.shields.io/badge/Website-keremsert.com.tr-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+    <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="30" alt="Website">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/keremsert">
-    <img src="https://img.shields.io/badge/LinkedIn-Kerem%20Sert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:keremsert54@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email">
   </a>
 </p>
 
@@ -61,6 +65,7 @@ Currently, I am focused on improving my software engineering skills and gaining 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
@@ -76,11 +81,11 @@ Currently, I am focused on improving my software engineering skills and gaining 
 
 Automated backend testing framework designed to validate complex e-commerce cart business logic.
 
-* Implemented **unit and integration testing**
-* Applied **Boundary Value Analysis (BVA)**
-* Used **parameterized testing**
-* Ensured database isolation with **pytest fixtures**
-* Achieved **91% code coverage**
+- Implemented **unit and integration testing**
+- Applied **Boundary Value Analysis (BVA)**
+- Used **parameterized testing**
+- Ensured database isolation with **pytest fixtures**
+- Achieved **91% code coverage**
 
 🔗 [View Project](https://github.com/keremsert54/eticaret-pytest)
 
@@ -92,10 +97,10 @@ Automated backend testing framework designed to validate complex e-commerce cart
 
 A full-stack student collaboration platform designed for study group creation, resource sharing, and real-time communication.
 
-* Implemented secure **JWT authentication**
-* Developed real-time messaging with **Socket.IO**
-* Built a PostgreSQL-based backend architecture
-* Deployed frontend and backend applications
+- Implemented secure **JWT authentication**
+- Developed real-time messaging with **Socket.IO**
+- Built a PostgreSQL-based backend architecture
+- Deployed frontend and backend applications
 
 🔗 [Visit Website](https://educonnect.net.tr/)
 
@@ -107,10 +112,10 @@ A full-stack student collaboration platform designed for study group creation, r
 
 Personal portfolio website showcasing my projects, certifications, and professional journey.
 
-* Responsive and modern UI
-* **English / Turkish multilingual support**
-* Light and dark mode
-* Interactive animations
+- Responsive and modern UI
+- **English / Turkish multilingual support**
+- Light and dark mode
+- Interactive animations
 
 🔗 [Visit Website](https://keremsert.com.tr)
 
@@ -120,12 +125,12 @@ Personal portfolio website showcasing my projects, certifications, and professio
 
 **Kotlin · Firebase · Android**
 
-University term project developed for the Mobile Programming course.
+University term project developed for the Mobile Programming course at Piri Reis University.
 
-* Firebase Authentication
-* Firestore database integration
-* Native Android runtime permissions
-* Dynamic course enrollment system
+- Firebase Authentication
+- Firestore database integration
+- Native Android runtime permissions
+- Dynamic course enrollment system
 
 🔗 [View Project](https://github.com/keremsert54/keremsert-courseportal)
 
@@ -151,16 +156,30 @@ A travel planning application designed to simplify multi-day itinerary organizat
 
 ---
 
+### 💼 Personal Portfolio Website
+
+**Python · Django · Docker · HTML · CSS**
+
+A university term project developed for the Advanced Web Programming course.
+
+- Implemented backend routing architecture
+- Built dynamic project showcases
+- Containerized the application with Docker
+
+🔗 [View Project](https://github.com/keremsert54/keremsert-website)
+
+---
+
 ## Certifications
 
-* Hands-On React Native Training — Udemy
-* Introduction to Cybersecurity — Cisco
-* JavaScript Essentials 1 & 2 — Cisco
-* Modern Web Development with Next.js — Udemy
-* React JS: Practical React JS & Redux Training — Udemy
-* Introduction to Programming with Java — Udemy
-* Python Programming Language — BTK Academy
-* Web Development & Server Deployment — Udemy
+- Hands-On React Native Training — Udemy
+- Introduction to Cybersecurity — Cisco
+- JavaScript Essentials 1 & 2 — Cisco
+- Modern Web Development with Next.js — Udemy
+- React JS: Practical React JS & Redux Training — Udemy
+- Introduction to Programming with Java — Udemy
+- Python Programming Language — BTK Academy
+- Web Development & Server Deployment — Udemy
 
 ---
 

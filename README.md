@@ -6,15 +6,13 @@
 
 <p align="center">
   <a href="https://keremsert.com.tr">
-    <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="30" alt="Website">
+    <img src="https://img.shields.io/badge/Website-keremsert.com.tr-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/keremsert">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Kerem%20Sert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:keremsert54@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 

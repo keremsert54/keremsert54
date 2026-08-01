@@ -159,6 +159,11 @@ University term project developed for the Mobile Programming course at Piri Reis
 
 An Android fitness application focused on water tracking, exercise logging, and calorie monitoring.
 
+- Real-time cloud synchronization using **Firebase Realtime Database & Authentication**
+- Interactive daily **water intake tracking** with customizable goals
+- Workout logs and **calorie consumption tracking**
+- Graphical visual progress tracking for health habits
+
 🔗 [View Project](https://github.com/keremsert54/FitTrack)
 
 ---
@@ -168,6 +173,11 @@ An Android fitness application focused on water tracking, exercise logging, and 
 **React.js · JavaScript · CSS**
 
 A travel planning application designed to simplify multi-day itinerary organization.
+
+- Component-based architecture built with **React.js**
+- Multi-day **itinerary builder** for activities, locations, and daily schedules
+- Dynamic activity management (add, edit, remove destinations)
+- Responsive and user-friendly interface for effortless trip coordination
 
 🔗 [View Project](https://github.com/keremsert54/keremsert-tripmate)
 

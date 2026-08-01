@@ -54,6 +54,8 @@ I enjoy transforming ideas into functional and scalable software products. Curre
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
@@ -65,6 +67,7 @@ I enjoy transforming ideas into functional and scalable software products. Curre
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
@@ -72,6 +75,22 @@ I enjoy transforming ideas into functional and scalable software products. Curre
 ---
 
 ## Featured Projects
+
+### 🌍 SeismoPy: Seismic Data Analysis & ML Pipeline
+
+**Python · Scikit-Learn · Pandas · SHAP · Pytest · GitHub Actions**
+
+An open-source research pipeline and modular Python repository for statistical analysis, feature engineering, and machine learning modeling on Turkish seismic data.
+
+- Built an automated **data ingestion pipeline** consuming official AFAD REST APIs
+- Engineered **time-series features**, rolling averages, and spatial density metrics
+- Implemented ML regression models with **time-based splits** to prevent **data leakage**
+- Applied **SHAP (Explainable AI)** to interpret model predictions and feature importance
+- Followed **Test-Driven Development (TDD)** using `pytest` and automated CI/CD via GitHub Actions
+
+🔗 [View Project](https://github.com/keremsert54/SeismoPy)
+
+---
 
 ### 🧪 E-Commerce Cart Test Automation
 

@@ -164,7 +164,7 @@ Projelerimi, sertifikalarımı ve profesyonel yolculuğumu sergileyen kişisel p
 - PostgreSQL tabanlı backend mimarisini kurdum ve optimize ettim
 - educonnect.net.tr adresinde canlıya aldım
 
-🔗 [Siteyi Ziyaret Et](https://educonnect.net.tr/)
+🔗 [Siteyi Ziyaret Et](https://educonnect.tr/)
 
 ---
 

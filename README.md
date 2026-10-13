@@ -164,7 +164,7 @@ A full-stack student collaboration platform designed for study group creation, r
 - Built and optimized a PostgreSQL-based backend architecture
 - Deployed live at educonnect.net.tr
 
-🔗 [Visit Website](https://educonnect.net.tr/)
+🔗 [Visit Website](https://educonnect.tr/)
 
 ---
 

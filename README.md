@@ -93,7 +93,7 @@ My experience spans full-stack and backend application development, test automat
 
 ## Experience
 
-### 🏗️ Software Engineering Intern — Tekfen Construction
+### 🏗️ Software Engineering Intern — Tekfen Holding
 **Aug 2026 – Sep 2026 · Beşiktaş, Istanbul, Turkey (On-site)**
 
 - Played an active role in a project focused on **AI-assisted analysis and natural language querying of P&ID (Piping and Instrumentation Diagram) drawings**

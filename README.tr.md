@@ -93,7 +93,7 @@ Deneyimim; full-stack ve backend uygulama geliştirme, test otomasyonu, veri oda
 
 ## Deneyim
 
-### 🏗️ Yazılım Mühendisliği Stajyeri — Tekfen İnşaat
+### 🏗️ Yazılım Mühendisliği Stajyeri — Tekfen Holding
 **Ağu 2026 – Eyl 2026 · Beşiktaş, İstanbul, Türkiye (Ofiste)**
 
 - **P&ID (Boru ve Enstrümantasyon Diyagramı) çizimlerinin yapay zekâ destekli analizi ve doğal dille sorgulanması** üzerine odaklanan bir projede aktif rol aldım

@@ -162,7 +162,7 @@ Projelerimi, sertifikalarımı ve profesyonel yolculuğumu sergileyen kişisel p
 - **JSON Web Token (JWT)** ile durum bilgili (stateful) kimlik doğrulama uyguladım
 - **Socket.IO** ile gerçek zamanlı mesajlaşma geliştirdim
 - PostgreSQL tabanlı backend mimarisini kurdum ve optimize ettim
-- educonnect.net.tr adresinde canlıya aldım
+- educonnect.tr adresinde canlıya aldım
 
 🔗 [Siteyi Ziyaret Et](https://educonnect.tr/)
 

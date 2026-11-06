@@ -162,7 +162,7 @@ A full-stack student collaboration platform designed for study group creation, r
 - Implemented stateful authentication via **JSON Web Tokens (JWT)**
 - Developed real-time messaging with **Socket.IO**
 - Built and optimized a PostgreSQL-based backend architecture
-- Deployed live at educonnect.net.tr
+- Deployed live at educonnect.tr
 
 🔗 [Visit Website](https://educonnect.tr/)
 
